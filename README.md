@@ -3,8 +3,9 @@ Firstly, started AS, ensuring DNS records could be correctly saved and retrieved
 
 And then started FS and registered it with AS.
  ![image](https://github.com/user-attachments/assets/d3f0655a-98e0-42a6-ba79-39345d5f39aa)
-
+ 
 Started US.
+
  ![image](https://github.com/user-attachments/assets/71968601-3e5c-4343-aefc-433d653d37c0)
 
 Tested the entire system's functionality by accessing US through a web browser.
